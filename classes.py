@@ -7,6 +7,7 @@ class Human:
     def info(self):
         print(f"Привет, меня зовут {self.name}")
 
+
 class StudentGroup:
     def __init__(self, group):
         self.group = group
